@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name">act12</string>
     <string name="app_name">Autenticación Biométrica</string>
 
     <!-- Textos de la interfaz -->

@@ -40,17 +40,19 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
-    implementation (androidx.appcompat:appcompat:1.6.1)
-    implementation (com.google.android.material:material:1.10.0)
-    implementation (androidx.constraintlayout:constraintlayout:2.1.4)
+
+    // Corregidas: usar literales de cadena en Kotlin DSL
+    implementation("androidx.appcompat:appcompat:1.6.1")
+    implementation("com.google.android.material:material:1.10.0")
+    implementation("androidx.constraintlayout:constraintlayout:2.1.4")
 
     // Dependencia para autenticación biométrica
-    implementation (androidx.biometric:biometric:1.1.0)
+    implementation("androidx.biometric:biometric:1.1.0")
 
     // Para iconos adicionales
-    implementation (androidx.vectordrawable:vectordrawable:1.1.0)
+    implementation("androidx.vectordrawable:vectordrawable:1.1.0")
 
-    testImplementation (junit:junit:4.13.2)
-    androidTestImplementation (androidx.test.ext:junit:1.1.5)
-    androidTestImplementation (androidx.test.espresso:espresso-core:3.5.1)
+    testImplementation("junit:junit:4.13.2")
+    androidTestImplementation("androidx.test.ext:junit:1.1.5")
+    androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
 }

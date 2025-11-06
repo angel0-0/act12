@@ -7,4 +7,8 @@
     <color name="ll_blue">#8ecae6</color>
     <color name="yellow">#ffb703</color>
     <color name="orange">#023047</color>
+
+    <!-- Colores añadidos para el layout -->
+    <color name="primary_blue">#2196F3</color>
+    <color name="text_secondary">#FF757575</color>
 </resources>
