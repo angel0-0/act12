@@ -1,4 +1,4 @@
-# 📱 Actividad 8 - App de Notificaciones SMS
+# 📱 Actividad 8 - App de Autenticación biometrica (huella digital)
 
 ## 📋 Descripción
 
