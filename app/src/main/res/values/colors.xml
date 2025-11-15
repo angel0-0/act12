@@ -7,4 +7,9 @@
     <color name="ll_blue">#8ecae6</color>
     <color name="yellow">#ffb703</color>
     <color name="orange">#023047</color>
+
+    <!-- Nuevos colores para la actividad 12 -->
+    <color name="background_light_gray">#F5F5F5</color>
+    <color name="primary_blue">#007BFF</color>
+    <color name="text_secondary">#6c757d</color>
 </resources>
